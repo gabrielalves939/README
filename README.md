@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=931792&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=931792&size=30&center=true&vCenter=true&width=1000&lines=Hi!,+my+name+is+Gabriel+Alves;I+from+Brasil,+SP;I+am+Software-Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=931792&size=30&center=true&vCenter=true&width=1000&lines=Hi!,+my+name+is+Gabriel+Alves;I+from+Brasil,+SP;I+am+Software-Developer;Welcome!+:%29)](https://git.io/typing-svg)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
